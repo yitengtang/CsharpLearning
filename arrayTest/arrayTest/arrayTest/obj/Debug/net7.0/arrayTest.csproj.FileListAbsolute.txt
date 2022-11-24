@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/bin/Debug/net7.0/arrayTest
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/bin/Debug/net7.0/arrayTest.deps.json
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/bin/Debug/net7.0/arrayTest.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/bin/Debug/net7.0/arrayTest.dll
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/bin/Debug/net7.0/arrayTest.pdb
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/arrayTest.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/arrayTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/arrayTest.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/arrayTest.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/arrayTest.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/arrayTest.dll
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/refint/arrayTest.dll
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/arrayTest.pdb
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/arrayTest.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/arrayTest/arrayTest/arrayTest/obj/Debug/net7.0/ref/arrayTest.dll
