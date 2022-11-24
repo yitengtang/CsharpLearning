@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/bin/Debug/net7.0/switchTest
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/bin/Debug/net7.0/switchTest.deps.json
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/bin/Debug/net7.0/switchTest.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/bin/Debug/net7.0/switchTest.dll
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/bin/Debug/net7.0/switchTest.pdb
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/switchTest.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/switchTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/switchTest.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/switchTest.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/switchTest.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/switchTest.dll
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/refint/switchTest.dll
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/switchTest.pdb
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/switchTest.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/switchTest/switchTest/switchTest/obj/Debug/net7.0/ref/switchTest.dll

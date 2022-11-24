@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/bin/Debug/net7.0/typeConvert
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/bin/Debug/net7.0/typeConvert.deps.json
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/bin/Debug/net7.0/typeConvert.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/bin/Debug/net7.0/typeConvert.dll
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/bin/Debug/net7.0/typeConvert.pdb
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/typeConvert.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/typeConvert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/typeConvert.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/typeConvert.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/typeConvert.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/typeConvert.dll
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/refint/typeConvert.dll
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/typeConvert.pdb
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/typeConvert.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/typeConvert/typeConvert/typeConvert/obj/Debug/net7.0/ref/typeConvert.dll
