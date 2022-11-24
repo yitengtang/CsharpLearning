@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/bin/Debug/net7.0/doCycle
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/bin/Debug/net7.0/doCycle.deps.json
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/bin/Debug/net7.0/doCycle.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/bin/Debug/net7.0/doCycle.dll
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/bin/Debug/net7.0/doCycle.pdb
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/doCycle.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/doCycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/doCycle.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/doCycle.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/doCycle.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/doCycle.dll
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/refint/doCycle.dll
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/doCycle.pdb
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/doCycle.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/doCycle/doCycle/doCycle/obj/Debug/net7.0/ref/doCycle.dll

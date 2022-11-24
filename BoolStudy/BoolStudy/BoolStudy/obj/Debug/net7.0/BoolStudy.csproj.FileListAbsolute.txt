@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/bin/Debug/net7.0/BoolStudy
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/bin/Debug/net7.0/BoolStudy.deps.json
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/bin/Debug/net7.0/BoolStudy.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/bin/Debug/net7.0/BoolStudy.dll
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/bin/Debug/net7.0/BoolStudy.pdb
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/BoolStudy.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/BoolStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/BoolStudy.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/BoolStudy.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/BoolStudy.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/BoolStudy.dll
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/refint/BoolStudy.dll
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/BoolStudy.pdb
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/BoolStudy.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/BoolStudy/BoolStudy/BoolStudy/obj/Debug/net7.0/ref/BoolStudy.dll
