@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/bin/Debug/net7.0/structureTest
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/bin/Debug/net7.0/structureTest.deps.json
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/bin/Debug/net7.0/structureTest.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/bin/Debug/net7.0/structureTest.dll
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/bin/Debug/net7.0/structureTest.pdb
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/structureTest.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/structureTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/structureTest.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/structureTest.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/structureTest.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/structureTest.dll
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/refint/structureTest.dll
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/structureTest.pdb
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/structureTest.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/structureTest/structureTest/structureTest/obj/Debug/net7.0/ref/structureTest.dll

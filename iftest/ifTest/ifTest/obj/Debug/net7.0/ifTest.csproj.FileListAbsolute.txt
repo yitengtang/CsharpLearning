@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/bin/Debug/net7.0/ifTest
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/bin/Debug/net7.0/ifTest.deps.json
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/bin/Debug/net7.0/ifTest.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/bin/Debug/net7.0/ifTest.dll
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/bin/Debug/net7.0/ifTest.pdb
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ifTest.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ifTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ifTest.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ifTest.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ifTest.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ifTest.dll
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/refint/ifTest.dll
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ifTest.pdb
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ifTest.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/iftest/ifTest/ifTest/obj/Debug/net7.0/ref/ifTest.dll
