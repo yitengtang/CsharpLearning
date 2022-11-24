@@ -1,0 +1,5 @@
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/enumTest/obj/Debug/net7.0/enumTest.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/enumTest/obj/Debug/net7.0/enumTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/enumTest/obj/Debug/net7.0/enumTest.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/enumTest/obj/Debug/net7.0/enumTest.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/enumTest/obj/Debug/net7.0/enumTest.csproj.CoreCompileInputs.cache

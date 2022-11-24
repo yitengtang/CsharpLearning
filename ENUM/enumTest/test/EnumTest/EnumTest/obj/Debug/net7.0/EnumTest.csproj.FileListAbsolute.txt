@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/bin/Debug/net7.0/EnumTest
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/bin/Debug/net7.0/EnumTest.deps.json
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/bin/Debug/net7.0/EnumTest.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/bin/Debug/net7.0/EnumTest.dll
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/bin/Debug/net7.0/EnumTest.pdb
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/EnumTest.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/EnumTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/EnumTest.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/EnumTest.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/EnumTest.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/EnumTest.dll
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/refint/EnumTest.dll
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/EnumTest.pdb
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/EnumTest.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/ENUM/enumTest/test/EnumTest/EnumTest/obj/Debug/net7.0/ref/EnumTest.dll

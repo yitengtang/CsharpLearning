@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/bin/Debug/net7.0/gototest
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/bin/Debug/net7.0/gototest.deps.json
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/bin/Debug/net7.0/gototest.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/bin/Debug/net7.0/gototest.dll
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/bin/Debug/net7.0/gototest.pdb
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/gototest.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/gototest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/gototest.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/gototest.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/gototest.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/gototest.dll
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/refint/gototest.dll
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/gototest.pdb
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/gototest.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/goto/gototest/gototest/obj/Debug/net7.0/ref/gototest.dll

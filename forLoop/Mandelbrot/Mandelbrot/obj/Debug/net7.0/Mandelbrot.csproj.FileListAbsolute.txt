@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/bin/Debug/net7.0/Mandelbrot
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/bin/Debug/net7.0/Mandelbrot.deps.json
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/bin/Debug/net7.0/Mandelbrot.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/bin/Debug/net7.0/Mandelbrot.dll
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/bin/Debug/net7.0/Mandelbrot.pdb
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/Mandelbrot.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/Mandelbrot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/Mandelbrot.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/Mandelbrot.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/Mandelbrot.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/Mandelbrot.dll
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/refint/Mandelbrot.dll
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/Mandelbrot.pdb
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/Mandelbrot.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/forLoop/Mandelbrot/Mandelbrot/obj/Debug/net7.0/ref/Mandelbrot.dll
