@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/bin/Debug/net7.0/whileCycle
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/bin/Debug/net7.0/whileCycle.deps.json
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/bin/Debug/net7.0/whileCycle.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/bin/Debug/net7.0/whileCycle.dll
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/bin/Debug/net7.0/whileCycle.pdb
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/whileCycle.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/whileCycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/whileCycle.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/whileCycle.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/whileCycle.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/whileCycle.dll
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/refint/whileCycle.dll
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/whileCycle.pdb
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/whileCycle.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/whileCycle/whileCycle/whileCycle/obj/Debug/net7.0/ref/whileCycle.dll
