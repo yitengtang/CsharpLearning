@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/bin/Debug/net7.0/arrayLength
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/bin/Debug/net7.0/arrayLength.deps.json
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/bin/Debug/net7.0/arrayLength.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/bin/Debug/net7.0/arrayLength.dll
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/bin/Debug/net7.0/arrayLength.pdb
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/arrayLength.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/arrayLength.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/arrayLength.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/arrayLength.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/arrayLength.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/arrayLength.dll
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/refint/arrayLength.dll
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/arrayLength.pdb
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/arrayLength.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/arrayLength/arrayLength/obj/Debug/net7.0/ref/arrayLength.dll
