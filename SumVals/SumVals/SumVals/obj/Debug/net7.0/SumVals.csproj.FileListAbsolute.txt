@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/SumVals.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/SumVals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/SumVals.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/SumVals.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/SumVals.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/bin/Debug/net7.0/SumVals
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/bin/Debug/net7.0/SumVals.deps.json
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/bin/Debug/net7.0/SumVals.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/bin/Debug/net7.0/SumVals.dll
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/bin/Debug/net7.0/SumVals.pdb
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/SumVals.dll
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/refint/SumVals.dll
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/SumVals.pdb
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/SumVals.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/SumVals/SumVals/SumVals/obj/Debug/net7.0/ref/SumVals.dll
