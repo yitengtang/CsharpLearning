@@ -1,0 +1,15 @@
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/bin/Debug/net7.0/MaxValue
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/bin/Debug/net7.0/MaxValue.deps.json
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/bin/Debug/net7.0/MaxValue.runtimeconfig.json
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/bin/Debug/net7.0/MaxValue.dll
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/bin/Debug/net7.0/MaxValue.pdb
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/MaxValue.csproj.AssemblyReference.cache
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/MaxValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/MaxValue.AssemblyInfoInputs.cache
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/MaxValue.AssemblyInfo.cs
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/MaxValue.csproj.CoreCompileInputs.cache
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/MaxValue.dll
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/refint/MaxValue.dll
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/MaxValue.pdb
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/MaxValue.genruntimeconfig.cache
+/Users/yitengtang/Desktop/csharp/MaxValue/MaxValue/MaxValue/obj/Debug/net7.0/ref/MaxValue.dll
